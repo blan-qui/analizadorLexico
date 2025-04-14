@@ -1,0 +1,18 @@
+
+  "empresa": {
+    "nombre": "TechNova",
+    "fundacion": 2005,
+    "activa": true
+    "departamentos": [
+      {
+        "nombre": "Investigación",
+        "empleados": 12
+      },
+      {
+        "nombre": "Marketing",
+        "empleados": 8
+      }
+    ],
+    "ubicaciones": null
+  }
+}
